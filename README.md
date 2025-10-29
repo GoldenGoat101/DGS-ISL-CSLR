@@ -1,6 +1,8 @@
 **CSLR — CorrNet+ (Continuous Sign Language Recognition)
 Overview**
 
+UPDATE: This project has won a **CREST Gold Award**, matching 15/15 Criteria (minimum requirement of 11/15 for winning the award)
+
 This repository contains end-to-end code and a lightweight Flask demo for Continuous Sign
 Language Recognition (CSLR) using a CorrNet+-style architecture (ResNet-based visual
 backbone, temporal convolutions, BiLSTM, and CTC decoding). The demo accepts short videos
@@ -13,8 +15,7 @@ low-resource and domain-shift challenges.
 
 **Responsible Use**
 
-This project is for research and education. It is not a substitute for certified interpreters,
-especially in legal, medical, or emergency contexts.
+This project is for research, education, and awareness. It is not a substitute for certified interpreters, especially in legal, medical, or emergency contexts.
 
 **Key Features**
 
